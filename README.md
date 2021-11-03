@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @Shisqon
-- 👀 I’m interested in creating and making games.
-- 🌱 I’m currently learning how to properly script.
-- 💞️ I’m looking to collaborate on some of my friend's games.
-- 📫 How to reach me add me on Discord shisqon#0888
+ Hi, I’m Shiro
+ I make games on a huge gaming platform called Roblox.
+ I love making games and playing them.
+ I am a young game developer planning on using my abilities to script to entertain others.
+ I sometimes do group projects with some of my friends.
+ If you want to reach out to me, add me on discord shisqon#0888
+ My game script isn't open source but I'm planing on making an open source version.
+ I also might start creating games on other platforms like steam when I finally know how to properly script.
 
 <!---
 Shisqon/Shisqon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
